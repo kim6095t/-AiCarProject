@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+}
+
+.mainImage{
+    width:100%;
+}
+
+.button{
+    margin-bottom:10px;
+    width: 40vw;
+    height: 5vh;
+    margin-right: 20px;
+    font-size: 20px;
+}
